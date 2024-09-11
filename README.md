@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @p-tl
-- 👀 I’m interested in local-first, hand-made web solutions. I build and manage workflow automation for SIMA Awards.
+- 👋 Hi, I’m Paul.
+- 👀 I’m interested in local-first, hand-made web solutions. I build and manage workflow automation for [SIMA Awards](https://simaawards.org/).
 - 🌱 I’m currently learning web development, product design, and user experience.
 - 📫 How to reach me paul@simastudios.org
 - 😄 Pronouns: he/him
